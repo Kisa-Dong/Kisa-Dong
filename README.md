@@ -1,5 +1,4 @@
 ### Hi there 👋
-<select>dsadi</select>
 
 <!--
 **Kisa-Dong/Kisa-Dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
